@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Thangzaliana-Thangtea/crud-react-redux/precache-manifest.458d8913e7b2ced7ca1fa85c51cd8661.js"
+  "/Thangzaliana-Thangtea/crud-react-redux/precache-manifest.8175cdb31b702d81735fcc85f800031b.js"
 );
 
 workbox.clientsClaim();

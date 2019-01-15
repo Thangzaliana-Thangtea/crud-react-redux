@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/Thangzaliana-Thangtea/crud-react-redux/static/js/runtime~main.869e2a8a.js"
   },
   {
-    "revision": "385fb1c32892c1bd9253",
-    "url": "/Thangzaliana-Thangtea/crud-react-redux/static/js/main.385fb1c3.chunk.js"
+    "revision": "b54a738f3244ae8a907e",
+    "url": "/Thangzaliana-Thangtea/crud-react-redux/static/js/main.b54a738f.chunk.js"
   },
   {
     "revision": "e619f176a531ffbad94a",
     "url": "/Thangzaliana-Thangtea/crud-react-redux/static/js/1.e619f176.chunk.js"
   },
   {
-    "revision": "385fb1c32892c1bd9253",
+    "revision": "b54a738f3244ae8a907e",
     "url": "/Thangzaliana-Thangtea/crud-react-redux/static/css/main.46cea12f.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Thangzaliana-Thangtea/crud-react-redux/static/css/1.56919101.chunk.css"
   },
   {
-    "revision": "b8e7d3a6416296e39778bcf72e7d1355",
+    "revision": "aa57320de4e5a0084477acc3d9aecd54",
     "url": "/Thangzaliana-Thangtea/crud-react-redux/index.html"
   }
 ];
